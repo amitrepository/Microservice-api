@@ -1,0 +1,4 @@
+com\spring\boot\cloud\currencyconversion\currencyconversionservice\CurrenctConversionController.class
+com\spring\boot\cloud\currencyconversion\currencyconversionservice\CurrencyConversionBean.class
+com\spring\boot\cloud\currencyconversion\currencyconversionservice\CurrencyConversionServiceApplication.class
+com\spring\boot\cloud\currencyconversion\currencyconversionservice\CurrencyExchangeServiceProxy.class

@@ -14,6 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>netflix-eureka-naming-server</name>
 	<description>Demo project for Spring Boot</description>
+		 <!-- lookup parent from repository -->
 
 	<properties>
 		<java.version>1.8</java.version>
